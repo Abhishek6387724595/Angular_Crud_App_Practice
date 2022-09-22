@@ -17,6 +17,15 @@
       "comment": "Nice TV",
       "date": "2022-09-16T18:30:00.000Z",
       "id": 2
+    },
+    {
+      "productName": "Motorola",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 1500,
+      "comment": "Gooood Phone",
+      "date": "2022-09-06T18:30:00.000Z",
+      "id": 3
     }
   ],
   "comments": [
